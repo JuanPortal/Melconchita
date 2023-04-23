@@ -806,7 +806,7 @@ fiesta hubo aquel día. ¡Deberías alegrarte de no ladrar!.
 
 chistes = compacto.split(".\n\n\n- ")
 
-client = discord.Client()
+client = discord.Client(intents=discord.Intents.all())
 
 
 @client.event
