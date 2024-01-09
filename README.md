@@ -3,7 +3,8 @@ Melconchita es un bot que cuenta chistes y manda memes.
 Aclaración: ni los memes ni los chistes son míos, solo los extraigo automáticamente de internet.
 
 Comandos:
-- $chiste manda un chiste
+- $chiste retorna un chiste
+- $joke returns a joke
 - $meme manda un meme
 - $help para más información
 
